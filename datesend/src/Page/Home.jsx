@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-
+import "../Style/Home.css"
 const Home = () => {
  const [name, setName] = useState("");
  const [email, setEmail] = useState("");
