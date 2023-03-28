@@ -3,6 +3,7 @@
   justify-content: center;
   margin-top: 5rem;
 }
+
 .user_input {
   display: block;
   width: 20rem;
@@ -11,11 +12,12 @@
   font-size: 1.1em;
   font-weight: 500;
   margin-bottom: 2rem;
-   border-color:#fff ;
+  border-color: #fff;
   border-bottom-color: blue;
 
- 
+
 }
+
 .user_btn {
   border: none;
   padding: 1rem;
@@ -24,9 +26,11 @@
   border-radius: 0.2rem;
   cursor: pointer;
 }
+
 .user_btn :hover {
   background-color: #c5c5c5;
 }
+
 .message {
   font-size: 1.2em;
   text-align: center;
